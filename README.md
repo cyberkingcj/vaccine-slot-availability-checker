@@ -7,8 +7,8 @@ Here's the solution. Use this app to get a notification on the pc it is running 
 <ul>
 <li> Edit the inputs.py file according to your requirements. 
 <li> Set the pincode, age and time interval.
-<li> Ensure that your system has Python 3.6+ installed.
-<li> Run "pip install -r requirements.txt" to install requests module in your system.
+<li> Ensure that your system has Python 3.6+ installed and is added to PATH. 
+<li> Run "pip install -r requirements.txt" in cmd to install required modules in your system.
 <li> You will need chrome webdriver for this app to work. You can download it easily from https://chromedriver.chromium.org/downloads according to the chrome version you are using. 
 <li> As you start the app.py file, it'll launch a new chrome window where you need to scan the QR for Whatsapp web. After scanning the QR, press Enter key in console.
 <li> Sit back and let it do it's work.
@@ -25,3 +25,7 @@ This app or me has nothing to do with your WhatsApp data. All the processes are 
 
 <h2> Why is this app better than other websites available on the internet </h2>
 Since it is running on your local PC handling only your requests rather than handling hundreds and thousands of requests, there are almost 0 chances of DoS (Denial of Service) from the CoWIN server and that increases the accuracy. The only drawback is thay you will need to keep your PC on.
+
+
+<br><br>
+<H4>Suggestions are always welcome
