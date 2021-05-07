@@ -18,4 +18,10 @@ Here's the solution. Use this app to get a notification on the pc it is running 
 <ul>
   <li> Do not set the threshold time below 30 seconds so as to avoid DoS.
   <li> Change the inputs.py file according to instructions written below each variable
-  <li> If you do not want WhatsApp feature, comment out the following lines in app.py: <ul> <li> 8<li> 9<li> 11-14<li> 30-32<li> 35<li> 37
+  <li> If you do not want WhatsApp feature, comment out the following lines in app.py: <ul> <li> 8<li> 9<li> 11-14<li> 30-32<li> 35<li> 37</ul></ul>
+  
+<h2> Note </h2>
+This app or me has nothing to do with your WhatsApp data. All the processes are happening on your local machine.
+
+<h3> Why is this app better than other websites available on the internet </h3>
+Since it is running on your local PC handling only your requests rather than handling hundreds and thousands of requests, there are almost 0 chances of DoS (Denial of Service) from the CoWIN server and that increases the accuracy.
