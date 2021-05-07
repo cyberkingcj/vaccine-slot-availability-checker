@@ -23,5 +23,5 @@ Here's the solution. Use this app to get a notification on the pc it is running 
 <h2> Note </h2>
 This app or me has nothing to do with your WhatsApp data. All the processes are happening on your local machine.
 
-<h3> Why is this app better than other websites available on the internet </h3>
-Since it is running on your local PC handling only your requests rather than handling hundreds and thousands of requests, there are almost 0 chances of DoS (Denial of Service) from the CoWIN server and that increases the accuracy.
+<h2> Why is this app better than other websites available on the internet </h2>
+Since it is running on your local PC handling only your requests rather than handling hundreds and thousands of requests, there are almost 0 chances of DoS (Denial of Service) from the CoWIN server and that increases the accuracy. The only drawback is thay you will need to keep your PC on.
