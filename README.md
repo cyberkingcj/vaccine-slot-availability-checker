@@ -18,4 +18,4 @@ Here's the solution. Use this app to get a notification on the pc it is running 
 <ul>
   <li> Do not set the threshold time below 30 seconds so as to avoid DoS.
   <li> Change the inputs.py file according to instructions written below each variable
-  <li> If you do not wany WhatsApp feature, comment out the following lines in app.py: <ul> <li> 8<li> 9<li> 11-14<li> 30-32<li> 35<li> 37
+  <li> If you do not want WhatsApp feature, comment out the following lines in app.py: <ul> <li> 8<li> 9<li> 11-14<li> 30-32<li> 35<li> 37
